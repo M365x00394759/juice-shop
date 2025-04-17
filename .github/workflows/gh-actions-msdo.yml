@@ -1,4 +1,4 @@
-name: Microsoft Security DevOps
+name: Microsoft Security DevOps1
 on:
   push:
     branches:
